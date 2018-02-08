@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE lect2 SYSTEM "lect2.dtd">
+<lect2>
+<info><title>vegetables - 蔬菜</title>
+  <author>M. Gr.</author>
+  <mail>melchiorG@gMail.com</mail>
+</info>
+<voc><cn><w>蔬菜</w><r>shu1cai4</r></cn>
+  <t>名词</t>
+  <en>vegetable</en></voc>
+<voc><cn><w>青菜</w><r>qingcai</r></cn>
+  <t>名词</t>
+  <en>bok choi</en></voc>
+<voc><cn><w>茄子</w><r>qiezi</r></cn>
+  <t>名词</t>
+  <en>eggplant</en></voc>
+<voc><cn><w>芹菜</w><r>qincai</r></cn>
+  <t>名词</t>
+  <en>celery</en></voc>
+<voc><cn><w>胡萝卜</w><r>hu2luo2bo</r></cn>
+  <t>名词</t>
+  <en>carrot</en></voc>
+<voc><cn><w>葱</w><r>cong1</r></cn>
+  <t>名词</t>
+  <en>green onion</en><en>spring onion</en></voc>
+<voc><cn><w>洋葱</w><r>yang2cong1</r></cn>
+  <t>名词</t>
+  <en>onion</en></voc>
+<voc><cn><w>大葱</w><r>dacong1</r></cn>
+  <t>名词</t>
+  <en>leek</en></voc>
+<voc><cn><w>青椒</w><r>qingjiao</r></cn>
+  <t>名词</t>
+  <en>green pepper</en><en>bell pepper</en></voc>
+<voc><cn><w>辣椒</w><r>lajiao</r></cn>
+  <t>名词</t>
+  <en>hot pepper</en><en>chili</en></voc>
+<voc><cn><w>西红柿</w><r>xihongshi</r></cn>
+  <t>名词</t>
+  <en>tomato</en></voc>
+<voc><cn><w>绿豆</w><r>lv4dou</r></cn>
+  <t>名词</t>
+  <en>green bean</en></voc>
+<voc><cn><w>豆芽</w><r>douya</r></cn>
+  <t>名词</t>
+  <en>sprouts</en></voc>
+<voc><cn><w>黄豆</w><r>huangdou</r></cn>
+  <t>名词</t>
+  <en>soy bean</en></voc>
+<voc><cn><w>扁豆</w><r>bian3dou</r></cn>
+  <t>名词</t>
+  <en>lentil</en></voc>
+<voc><cn><w>豌豆</w><r>wan3dou4</r></cn>
+  <t>名词</t>
+  <en>pea</en></voc>
+<voc><cn><w>莲藕</w><r>lian2ou3</r></cn>
+  <t>名词</t>
+  <en>lotus root</en></voc>
+<voc><cn><w>水萝卜</w><r>shuiluobo</r></cn>
+  <t>名词</t>
+  <en>raddish</en></voc>
+<voc><cn><w>白萝卜</w><r>bailuobo</r></cn>
+  <t>名词</t>
+  <en>horse raddish</en><en>lobuk</en><en>daicon</en></voc>
+<voc><cn><w>白菜</w><r>bai2cai4</r></cn>
+  <t>名词</t>
+  <en>Chinese cabbage</en><en>white cabbage</en></voc>
+<voc><cn><w>菠菜</w><r>bo1cai4</r></cn>
+  <t>名词</t>
+  <en>spinach</en></voc>
+<voc><cn><w>姜</w><r>jiang1</r></cn>
+  <t>名词</t>
+  <en>ginger</en></voc>
+<voc><cn><w>包菜</w><r>bao1cai4</r></cn>
+  <t>名词</t>
+  <en>cabbage</en></voc>
+<voc><cn><w>玉米</w><r>yu4mi3</r></cn>
+  <t>名词</t>
+  <en>corn</en></voc>
+<voc><cn><w>大蒜</w><r>da4suan4</r></cn>
+  <t>名词</t>
+  <en>garlic</en></voc>
+<voc><cn><w>花菜</w><r>hua1cai4</r></cn>
+  <t>名词</t>
+  <en>cauliflower</en></voc>
+<voc><cn><w>西兰花</w><r>xi1lan2hua1</r></cn>
+  <t>名词</t>
+  <en>broccoli</en></voc>
+<voc><cn><w>黄瓜</w><r>huang2gua1</r></cn>
+  <t>名词</t>
+  <en>cucumber</en></voc>
+<voc><cn><w>番薯</w><r>fan1shu3</r></cn>
+  <t>名词</t>
+  <en>sweet potato</en></voc>
+<voc><cn><w>蘑菇</w><r>mo2gu1</r></cn>
+  <t>名词</t>
+  <en>mushrooms</en></voc>
+<voc><cn><w>南瓜</w><r>nan2gua1</r></cn>
+  <t>名词</t>
+  <en>pumpkin</en></voc>
+<voc><cn><w>芋头</w><r>yu4tou2</r></cn>
+  <t>名词</t>
+  <en>yams</en></voc>
+<voc><cn><w>芥菜</w><r>jie4cai4</r></cn>
+  <t>名词</t>
+  <en>mustard</en></voc>
+<voc><cn><w>苦瓜</w><r>kugua1</r></cn>
+  <t>名词</t>
+  <en>bitter cucumber</en></voc>
+</lect2>

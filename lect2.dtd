@@ -1,0 +1,14 @@
+<!-- Lect2 DTD bridging version, use lect2.xsd whenever possible -->
+<!ELEMENT lect2 (info,voc*)>
+  <!ELEMENT info (title,author,mail?,description?)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT author (#PCDATA)>
+    <!ELEMENT mail (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+
+  <!ELEMENT voc (cn,t?,en+)>
+    <!ELEMENT cn (w,r*)>
+      <!ELEMENT w (#PCDATA)>
+      <!ELEMENT r (#PCDATA)>
+    <!ELEMENT t (#PCDATA)>
+    <!ELEMENT en (#PCDATA)>

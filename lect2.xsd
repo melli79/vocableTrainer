@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="lect2" type="Lect2"/>
+
+<xs:complexType name="Lect2">
+    <xs:sequence>
+        <xs:element name="info" type="Info"/>
+        <xs:element name="voc" type="Vocable" maxOccurs="unbounded"/>
+    </xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="Info">
+    <xs:sequence>
+        <xs:element name="title" type="xs:string"/>
+        <xs:element name="author" type="xs:string"/>
+        <xs:element name="mail" type="xs:string" minOccurs="0"/>
+        <xs:element name="description" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="Vocable">
+    <xs:sequence>
+        <xs:element name="cn" type="Zh"/>
+        <xs:element name="t" type="xs:string" minOccurs="0"/>
+        <xs:element name="en" type="xs:string" maxOccurs="unbounded"/>
+    </xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="Zh">
+    <xs:sequence>
+        <xs:element name="w" type="xs:string"/>
+        <xs:element name="r" type="xs:string" maxOccurs="unbounded"/>
+    </xs:sequence>
+</xs:complexType>
+
+</xs:schema>
